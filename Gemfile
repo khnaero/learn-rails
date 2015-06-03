@@ -13,6 +13,8 @@ gem 'jbuilder', '~> 2.0'
 
 gem 'therubyracer', platforms: :ruby 
 
+gem 'rb-readline'
+
 # learn-rails
 gem 'activerecord-tableless'
 gem 'compass-rails', '~> 2.0.alpha.0'
